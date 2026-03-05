@@ -1,4 +1,4 @@
- import numpy as np
+import numpy as np
 import math
 import os
 from ipycanvas import Canvas, hold_canvas
