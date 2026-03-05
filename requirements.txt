@@ -1,4 +1,5 @@
 streamlit
 numpy
-plotly
-streamlit-plotly-events
+ipython
+ipywidgets
+ipycanvas
